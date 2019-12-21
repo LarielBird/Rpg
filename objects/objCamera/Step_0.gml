@@ -1,5 +1,5 @@
-x += (mx - x)/25;
-y += (my - y)/25;
+x += (mx - x)/1;
+y += (my - y)/1;
 
 if (follow != noone)
 {
