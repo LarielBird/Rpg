@@ -67,7 +67,11 @@
             "id": "dc494a23-2b61-463d-83c8-eb68cc161b9e",
             "animationFPS": 15,
             "animationSpeedType": "0",
+<<<<<<< HEAD
+            "colour": { "Value": 4294967295 },
+=======
             "colour": { "Value": 4290157567 },
+>>>>>>> parent of 2d49eba... Camera following
             "depth": 100,
             "grid_x": 21,
             "grid_y": 21,
@@ -86,7 +90,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "057670c8-30c8-4af4-88a8-e5656055cb9d",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
