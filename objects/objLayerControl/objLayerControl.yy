@@ -1,12 +1,21 @@
 {
-    "id": "f2b2d2ac-9415-47d4-b1c2-47cd98d7385a",
+    "id": "dd8b000f-4b43-44ab-bad6-dd92abc28f66",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "parCollision",
+    "name": "objLayerControl",
     "eventList": [
-        
+        {
+            "id": "3b171d88-9e68-4e10-b5dc-9a4d83827ca4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "dd8b000f-4b43-44ab-bad6-dd92abc28f66"
+        }
     ],
-    "maskSpriteId": "8abf5472-5927-4a86-a5ab-b64880c22b9d",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -23,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "8abf5472-5927-4a86-a5ab-b64880c22b9d",
+    "solid": false,
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

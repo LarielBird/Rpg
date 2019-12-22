@@ -1,7 +1,9 @@
-TargetX = objPlayer.x - x;
-TargetY = objPlayer.y -y;
+var seconds_passed = delta_time/1000000;
+var move_speed_this_frame = moveSpeed*seconds_passed;
 
-var _targetX = sign(TargetX)*Speed;
-var _targetY = sign(TargetY)*Speed;
+targetX = objPlayer.x;
+targetY = objPlayer.y;
 
-MoveCollide(_targetX,_targetY,parCollision);
+var move_dir = point_direction(x, y, targetX, targetY);
+
+move(move_speed_this_frame, move_dir);

@@ -1,4 +1,5 @@
-TargetX = 0;
-TargetY = 0;
+targetX = 0;
+targetY = 0;
 
-Speed = 0.25;
+moveSpeed = 32;
+updateLayer();
