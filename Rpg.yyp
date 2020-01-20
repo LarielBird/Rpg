@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04f499a0-bc8c-448f-9049-24a5fb581434",
+            "Value": {
+                "id": "cc14a6c1-dd6b-4296-b5d8-84f810e87b32",
+                "resourcePath": "sprites\\Sidewalk9\\Sidewalk9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08c76a15-0afa-458d-a8f5-2eeb6d77fb1e",
             "Value": {
                 "id": "393e0670-218d-48c2-ba0f-de5f15df03eb",
@@ -55,6 +63,14 @@
             }
         },
         {
+            "Key": "173fd3f1-08fb-4f55-8895-2d91f697a8b7",
+            "Value": {
+                "id": "5b4d1a81-2edb-4e98-bbe7-b410158a8727",
+                "resourcePath": "objects\\mapSidewalk11\\mapSidewalk11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19263bd0-701b-4701-b3ae-1d7083edc357",
             "Value": {
                 "id": "9b79e3c6-7465-4e5d-a123-5b9ef4c7c3bd",
@@ -63,10 +79,58 @@
             }
         },
         {
+            "Key": "19c1349f-bc9e-474e-9c79-a5a53edcf877",
+            "Value": {
+                "id": "d71e3205-0b26-4cf4-b8aa-fbbd3686963c",
+                "resourcePath": "objects\\mapSidewalk4\\mapSidewalk4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1dfadd4c-46b7-443c-b128-e517dd512078",
+            "Value": {
+                "id": "1f31f67c-7bab-4d5e-b71d-482c548d69c8",
+                "resourcePath": "views\\1dfadd4c-46b7-443c-b128-e517dd512078.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1ea7e5b4-9fd8-4c14-a1c2-2e99883148e9",
+            "Value": {
+                "id": "d52e42ee-62dd-439b-9ef0-4d8cc4be313b",
+                "resourcePath": "sprites\\Sidewalk6\\Sidewalk6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1f7a7d65-9629-4d8d-b953-10cc7c5fd88e",
+            "Value": {
+                "id": "6061bafa-6c49-49ad-9f68-0b1767ecec97",
+                "resourcePath": "views\\1f7a7d65-9629-4d8d-b953-10cc7c5fd88e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1fc9065f-c5af-4567-ba2c-743b7f4caf1e",
+            "Value": {
+                "id": "87d935fe-55de-4d6c-8722-4821cc5ae266",
+                "resourcePath": "sprites\\Sidewalk12\\Sidewalk12.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2157bc2b-bbd9-4a76-9fd1-8cc61ad15958",
             "Value": {
                 "id": "8e82d597-811b-4d05-9793-85831a38fee2",
                 "resourcePath": "sprites\\viewPlayerUp\\viewPlayerUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2713cba1-6954-49b1-86e3-df53bf85c5aa",
+            "Value": {
+                "id": "d03f4ada-15fa-4f63-88f4-cc846f6e6eb7",
+                "resourcePath": "sprites\\Sidewalk5\\Sidewalk5.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -84,6 +148,14 @@
                 "id": "68d235cb-2a5d-49cf-a949-6d4669fbdb2d",
                 "resourcePath": "views\\2bb81985-c2ed-4ff1-8b87-6b854601718a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2d0cf9e5-830b-41ed-bbba-b71e4b69478b",
+            "Value": {
+                "id": "69d8c381-ffc5-4eb1-8e08-d6d6e0839493",
+                "resourcePath": "sprites\\Sidewalk3\\Sidewalk3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -108,6 +180,22 @@
                 "id": "e87641ab-8629-4f05-b909-c5de4e0a6ccb",
                 "resourcePath": "views\\3f4bed3b-2d59-41e1-931f-50ad6910963f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41c4e054-e3c7-45bf-83e0-8a95b733c2d6",
+            "Value": {
+                "id": "9a09d502-f707-4fa7-8b37-d191ffe39ced",
+                "resourcePath": "objects\\mapSidewalk6\\mapSidewalk6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42b5e50d-b527-4d44-9b80-0b7e7a327918",
+            "Value": {
+                "id": "0ab374e6-4733-476f-8e8c-faf77d4edf7d",
+                "resourcePath": "sprites\\Sidewalk1\\Sidewalk1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,6 +239,14 @@
             }
         },
         {
+            "Key": "63f2e973-e052-4c97-8c5d-86fb5e0072dc",
+            "Value": {
+                "id": "67743395-2367-4d7a-9ed9-0991e8f7cb79",
+                "resourcePath": "sprites\\Sidewalk10\\Sidewalk10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c790bb1-eb55-46a3-88cb-4d478b431d3b",
             "Value": {
                 "id": "5fd25007-df7f-4d43-9dd5-41794a666042",
@@ -163,6 +259,22 @@
             "Value": {
                 "id": "adfac139-a900-4b59-94d9-8856fa0a04fd",
                 "resourcePath": "sprites\\viewPlayerLeft\\viewPlayerLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77ca88fa-5f42-41e8-9e80-ce950f532dd6",
+            "Value": {
+                "id": "18a6b15b-b9dd-47f9-86a5-a118e76574ff",
+                "resourcePath": "objects\\mapSidewalk7\\mapSidewalk7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7b249ea2-93bc-4d42-b782-578eeffffcf9",
+            "Value": {
+                "id": "b7745398-71f2-42bc-b170-e85bf19a0c7e",
+                "resourcePath": "sprites\\Sidewalk2\\Sidewalk2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -180,6 +292,22 @@
                 "id": "274d4977-3616-44ab-993e-4b63845e1f84",
                 "resourcePath": "sprites\\viewColliderPlayer\\viewColliderPlayer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "88773cf0-9591-425d-919f-3734ca4cc3f9",
+            "Value": {
+                "id": "5f8f2a54-90cf-46f6-aa71-6e3edc4a7af2",
+                "resourcePath": "objects\\mapSidewalk5\\mapSidewalk5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8a6efa0e-b663-4277-b4db-7879f15e291f",
+            "Value": {
+                "id": "cabb553d-00c9-4ebb-a3de-9148fd7032bb",
+                "resourcePath": "views\\8a6efa0e-b663-4277-b4db-7879f15e291f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -207,6 +335,14 @@
             }
         },
         {
+            "Key": "8ebe4412-38e2-4c4e-a9bc-e2e5437875cf",
+            "Value": {
+                "id": "45dfe412-bb3c-43f8-b50b-5a02eeaeb595",
+                "resourcePath": "objects\\mapSidewalk10\\mapSidewalk10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8f58819f-eef5-4358-a901-13d38385de48",
             "Value": {
                 "id": "b4cf224c-f83e-4ee5-9791-85db0ef2ee6a",
@@ -231,11 +367,43 @@
             }
         },
         {
+            "Key": "a20bca98-59d6-48ac-aa0c-97300f031653",
+            "Value": {
+                "id": "799a998a-5b0a-442c-9c4a-2979f99eb382",
+                "resourcePath": "sprites\\Sidewalk8\\Sidewalk8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3317d64-bf1c-4cf3-9815-4d536b2904f8",
+            "Value": {
+                "id": "157d932d-b3d5-48a8-b60f-ffd32a675af5",
+                "resourcePath": "objects\\mapSidewalk8\\mapSidewalk8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a808edbb-8bcc-4e8c-a73e-445e2eaf1aff",
+            "Value": {
+                "id": "2efccf4e-28e5-4fb1-964e-210c11b08f97",
+                "resourcePath": "sprites\\Sidewalk4\\Sidewalk4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "6737544d-65ba-40ac-ac4b-3db688fe15bc",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aacab240-b492-4e1b-906b-61a448dcf4c2",
+            "Value": {
+                "id": "63429005-a1f3-45fc-a927-dd00b91641d8",
+                "resourcePath": "objects\\mapSidewalk1\\mapSidewalk1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -260,6 +428,30 @@
                 "id": "8d815379-c7a2-4082-b81d-df012604948d",
                 "resourcePath": "scripts\\updateLayer\\updateLayer.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b8545653-47fc-411d-be0e-bec70eab0639",
+            "Value": {
+                "id": "a36f5f6b-2672-489e-b6e8-0246a331cc55",
+                "resourcePath": "objects\\mapSidewalk12\\mapSidewalk12.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba31dcd7-3780-41a4-96d4-3f79947198c1",
+            "Value": {
+                "id": "821af921-49e0-4c65-8999-4a4c44759279",
+                "resourcePath": "sprites\\Sidewalk11\\Sidewalk11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bf1d0f53-d8f9-44aa-9246-c0e5e087c64a",
+            "Value": {
+                "id": "e5e55815-e929-426b-84df-6c9a4c011508",
+                "resourcePath": "sprites\\Sidewalk7\\Sidewalk7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,11 +503,35 @@
             }
         },
         {
+            "Key": "d1bc28a0-5bdb-4b39-85ce-0ed52eb89d97",
+            "Value": {
+                "id": "d50f9f1f-1792-4904-884d-f11561272dfe",
+                "resourcePath": "objects\\mapSidewalk2\\mapSidewalk2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d3d2e8d2-01ff-4267-b0fd-152143e0ecfd",
+            "Value": {
+                "id": "5727fb7e-c1a7-4f95-9819-5b186ad22e5d",
+                "resourcePath": "objects\\mapSidewalk3\\mapSidewalk3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d62df1e1-de54-481c-81a3-f44cf4039538",
             "Value": {
                 "id": "9fbbeb4c-8f5c-46c6-822f-d9fc01b34c26",
                 "resourcePath": "scripts\\StateIDLE\\StateIDLE.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "db40d29c-6d09-43bb-9112-ce30003774a5",
+            "Value": {
+                "id": "a0c75b8f-9bbd-4545-ae4c-2a947cda8b2d",
+                "resourcePath": "sprites\\Sidewalk13\\Sidewalk13.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -348,6 +564,14 @@
                 "id": "6ecaad56-2152-4c6f-b1b6-e509a7f09649",
                 "resourcePath": "sprites\\viewBlast\\viewBlast.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef470288-5399-46a4-abac-30163f646e6f",
+            "Value": {
+                "id": "2f0b4f73-e049-4f1d-90a8-6b1643110100",
+                "resourcePath": "objects\\mapSidewalk9\\mapSidewalk9.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -396,6 +620,14 @@
                 "id": "f6a3e179-5860-4483-82ed-67c66487760b",
                 "resourcePath": "views\\f71c2215-61c0-442e-8cfa-adc5903d3343.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f8d81a4f-98d4-4a7f-937e-bb5d66331613",
+            "Value": {
+                "id": "ab1db6ff-26e1-4663-bece-869c1c2e02dc",
+                "resourcePath": "objects\\mapSidewalk13\\mapSidewalk13.yy",
+                "resourceType": "GMObject"
             }
         },
         {
