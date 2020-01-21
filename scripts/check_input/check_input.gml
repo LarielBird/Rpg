@@ -20,4 +20,3 @@ if moving  {
 } else {
 	Action = IDLE;	
 }
-updateLayer();
