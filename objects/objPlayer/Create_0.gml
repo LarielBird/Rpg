@@ -3,6 +3,8 @@
 XAxis = 0; // Left/Right movement
 YAxis = 0; // Up/Down movement
 Speed = 2; // How fast we move
+isInteracting = false;
+interactingID = noone;
 
 State = StateIDLE;
 

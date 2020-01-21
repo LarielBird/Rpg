@@ -159,11 +159,11 @@
             }
         },
         {
-            "Key": "31d36cbf-4fe4-4d19-b6ec-18e461eb950d",
+            "Key": "304d9738-5d54-4c6a-a435-412f1df3a142",
             "Value": {
-                "id": "a00d71e4-ffd0-48a0-a2a6-bdcb7f8e5fd4",
-                "resourcePath": "sprites\\viewColliderPlayer1\\viewColliderPlayer1.yy",
-                "resourceType": "GMSprite"
+                "id": "a501bca3-a7ec-40a8-bfce-802a9d58b1eb",
+                "resourcePath": "objects\\parInteractable\\parInteractable.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -244,6 +244,14 @@
                 "id": "67743395-2367-4d7a-9ed9-0991e8f7cb79",
                 "resourcePath": "sprites\\Sidewalk10\\Sidewalk10.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "675988c5-9655-4306-9008-94e4af367f76",
+            "Value": {
+                "id": "cef9fb13-016c-49ed-952a-c788ef7d29a7",
+                "resourcePath": "objects\\objWarp\\objWarp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -482,7 +490,7 @@
             "Key": "c8961598-75d4-4595-a15d-8996ea25c2ef",
             "Value": {
                 "id": "4699751b-78e2-436f-af81-bf2b8f39f4a0",
-                "resourcePath": "rooms\\room001\\room001.yy",
+                "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -556,6 +564,14 @@
                 "id": "d22a314b-f18e-436a-9760-2fd31ab8ca61",
                 "resourcePath": "views\\e0a16b26-a368-4c78-b18e-4240f7530738.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e355a524-54fd-4c38-8a46-10fffe92bd6b",
+            "Value": {
+                "id": "af3ddc15-d9af-4be8-9bc8-dbe6c92c4864",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -635,6 +651,14 @@
             "Value": {
                 "id": "89028ac9-2911-4c5b-a1bc-665265fb7ce6",
                 "resourcePath": "views\\fd1ce7d0-be0b-4793-a62e-9122adc658cd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fe522cef-8027-4628-ab6d-5f9e517d2fa3",
+            "Value": {
+                "id": "8646d98a-1203-4361-81f0-a169b41be7d2",
+                "resourcePath": "views\\fe522cef-8027-4628-ab6d-5f9e517d2fa3.yy",
                 "resourceType": "GMFolder"
             }
         }

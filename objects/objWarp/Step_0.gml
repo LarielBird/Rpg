@@ -1,0 +1,3 @@
+/// Interact
+
+event_inherited();
