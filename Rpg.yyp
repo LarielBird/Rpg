@@ -226,7 +226,7 @@
             "Key": "5484455c-f3d2-4868-965d-e11b343e60d4",
             "Value": {
                 "id": "cf01c8ae-41af-4109-b806-6e9900b95dc3",
-                "resourcePath": "rooms\\rmTeleportTarget\\rmTeleportTarget.yy",
+                "resourcePath": "rooms\\room11\\room11.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -498,7 +498,7 @@
             "Key": "c8961598-75d4-4595-a15d-8996ea25c2ef",
             "Value": {
                 "id": "4699751b-78e2-436f-af81-bf2b8f39f4a0",
-                "resourcePath": "rooms\\rmTemplate\\rmTemplate.yy",
+                "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
             }
         },
