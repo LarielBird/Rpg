@@ -5,8 +5,7 @@
     "name": "46fa128b-002f-480a-8e44-c2d44d77a17c",
     "children": [
         "4bb3d6a3-d6ed-440c-8eb8-1f68ff9d5e57",
-        "f2b2d2ac-9415-47d4-b1c2-47cd98d7385a",
-        "304d9738-5d54-4c6a-a435-412f1df3a142"
+        "f2b2d2ac-9415-47d4-b1c2-47cd98d7385a"
     ],
     "filterType": "GMObject",
     "folderName": "Parents",
