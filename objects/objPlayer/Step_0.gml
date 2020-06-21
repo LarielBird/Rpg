@@ -1,3 +1,3 @@
-//script_execute(State);
-check_input();
+script_execute(State);
+
 sprite_index = View[Direction,Action]

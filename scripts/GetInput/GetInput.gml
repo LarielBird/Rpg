@@ -1,5 +1,3 @@
 //Get User Input
-movement_inputs[0] = ord("D");
-movement_inputs[1] = ord("W");
-movement_inputs[2] = ord("A");
-movement_inputs[3] = ord("S");
+XAxis = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+YAxis = keyboard_check(ord("S")) - keyboard_check(ord("W"));

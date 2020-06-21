@@ -24,12 +24,3 @@ View[LEFT,MOVE] = viewPlayerMoveLeft;
 View[DOWN,IDLE] = viewPlayerDown;
 View[DOWN,MOVE] = viewPlayerMoveDown;
 
-move_speed = 128;
-
-GetInput();
-animations[0] = RIGHT;
-animations[1] = UP;
-animations[2] = LEFT;
-animations[3] = DOWN;
-
-updateLayer();

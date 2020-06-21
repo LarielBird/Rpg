@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "31d36cbf-4fe4-4d19-b6ec-18e461eb950d",
-            "Value": {
-                "id": "a00d71e4-ffd0-48a0-a2a6-bdcb7f8e5fd4",
-                "resourcePath": "sprites\\viewColliderPlayer1\\viewColliderPlayer1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3b1d2552-5e37-42a0-ac49-ded233a1b3a8",
             "Value": {
                 "id": "adecd1ab-6db7-422f-a9b1-87ce403ec3ef",
@@ -218,7 +210,7 @@
             "Key": "9a20fd0a-9274-46c6-8795-d26ca9639e62",
             "Value": {
                 "id": "38e4ba4a-d2ab-4c1b-a163-1c65b4e24349",
-                "resourcePath": "scripts\\check_input\\check_input.yy",
+                "resourcePath": "scripts\\MoveCollide\\MoveCollide.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -251,22 +243,6 @@
             "Value": {
                 "id": "dd1955fd-edd6-4e4d-ac5b-151f37c060c6",
                 "resourcePath": "scripts\\GetInput\\GetInput.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "b1fa28ca-69a0-424b-ba32-7f0d381e2c2f",
-            "Value": {
-                "id": "8d815379-c7a2-4082-b81d-df012604948d",
-                "resourcePath": "scripts\\updateLayer\\updateLayer.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "c532ec6d-a6ce-4230-9646-8f5c583aa51b",
-            "Value": {
-                "id": "f6ac8484-0a19-4d8e-ad44-af08f5abd8b1",
-                "resourcePath": "scripts\\move\\move.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -324,14 +300,6 @@
                 "id": "149851b3-e075-4c9e-8fb4-a96f69374f18",
                 "resourcePath": "views\\dd0fbeee-f4f7-4f52-92a0-f54b33a2b219.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "dd8b000f-4b43-44ab-bad6-dd92abc28f66",
-            "Value": {
-                "id": "bee879cf-0fd0-47bb-a273-479d574a7400",
-                "resourcePath": "objects\\objLayerControl\\objLayerControl.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -411,9 +379,7 @@
         "3b1d2552-5e37-42a0-ac49-ded233a1b3a8",
         "aedcf623-dbf2-45ce-b9e5-edd758703820",
         "d62df1e1-de54-481c-81a3-f44cf4039538",
-        "9a20fd0a-9274-46c6-8795-d26ca9639e62",
-        "c532ec6d-a6ce-4230-9646-8f5c583aa51b",
-        "b1fa28ca-69a0-424b-ba32-7f0d381e2c2f"
+        "9a20fd0a-9274-46c6-8795-d26ca9639e62"
     ],
     "tutorial": ""
 }

@@ -28,4 +28,4 @@ var _length = Speed * (XAxis != 0 || YAxis != 0);
 XAxis = lengthdir_x(_length, _direction);
 YAxis = lengthdir_y(_length, _direction);
 
-//MoveCollide(XAxis,YAxis,parCollision);
+MoveCollide(XAxis,YAxis,parCollision);
